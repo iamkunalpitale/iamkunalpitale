@@ -1,13 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Kunal Pitale" />
+</h1>
 
-<!--
-**iamkunalpitale/iamkunalpitale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Kunal, a 31 years old mobile app developer from India.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 Dart, Java
+- ⚙️ Flutter, Android
+- 💽 MySQL, SQL
 
-- 🔭 I’m currently working on Kritivity Web Solution
-- 🌱 I’m currently learning Flutter and Machine Learning
-- 👯 I’m looking to collaborate on open sources project
-- 🤔 I’m looking for help with Flutter
-
--->
